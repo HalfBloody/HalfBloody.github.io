@@ -1,0 +1,110 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+
+body {
+  background-color: #333333;
+  color: #474747;
+  font-family: 'Lato', regular;
+  padding: 10px;
+}
+
+#logo {
+}
+
+/*.header {
+  width: 100%;
+  text-align: center;
+  background-color: white;
+  border-radius: 5px;
+}*/
+
+.headline {
+  width: 100%;
+  text-align: center;
+  line-height: 180px;
+  font-size: 60px;
+  vertical-align: middle;
+}
+
+.light-box {
+  width: 100%;
+  text-align: center;
+  background-color: white;
+  color: #474747;
+  border-radius: 5px;
+}
+
+.dark-box {
+  width: 100%;
+  text-align: center;
+  background-color: #333333;
+  color: white;
+  border-radius: 5px;
+}
+
+.info-box {
+  padding: 10px;
+  font-size: 20px;
+}
+
+.bullet {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: 30px;
+  /*margin: 20px;*/
+
+/*  height: 50px;
+  line-height: 50px;
+  vertical-align: middle;*/
+}
+
+.left {
+  /*padding-left: 50px;*/
+/*  text-align: left;
+  padding-left: 230px;*/
+  text-align: left;
+}
+
+.right {
+  /*padding-right: 50px;*/
+  text-align: right;
+  padding-right: 250px;
+}
+
+.icon {
+  height: 40px;
+  width: 40px;
+  vertical-align: middle;
+  margin: 20px;
+}
+
+.inner-container {
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.button {
+  background-color: #65A50B;
+  color: #ffffff;
+  width: 250px;
+  height: 90px;
+  line-height: 90px;
+  vertical-align: middle;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-radius: 5px;
+}
+
+.button:hover {
+  background-color: #46700B;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
